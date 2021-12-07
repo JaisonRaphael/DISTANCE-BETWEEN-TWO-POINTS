@@ -8,7 +8,7 @@ start the program
 ### Step 2:
 import math
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula
 ### Step 4:
 print the program 
 ### Step 5: 
